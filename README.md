@@ -67,21 +67,21 @@ const desarrollador = {
 
 ## 🚀 Projects
 
-<div align="center">
+
   <a href="https://github.com/Dmat39/CIMARC-BACKEND">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Dmat39&repo=CIMARC-BACKEND&theme=tokyonight" alt="Project 1"/>
   </a>
-</div>
-<div align="center">
+
+
   <a href="https://github.com/Dmat39/CENTINELA-FRONT">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Dmat39&repo=CENTINELA-FRONT&theme=tokyonight" alt="Project 2"/>
   </a>
-</div>
-<div align="center">
+
+
   <a href="https://github.com/Dmat39/BodyCam_Frontend">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Dmat39&repo=BodyCam_Frontend&theme=tokyonight" alt="Project 3"/>
   </a>
-</div>
+
 
 ## 📈 Activity Graph
 
