@@ -69,7 +69,7 @@ const desarrollador = {
 
 <div align="center">
   <a href="https://github.com/Dmat39/CIMARC-BACKEND">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmat39&repo=CIMARC-BACKEND&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dmat39&repo=BodyCam_Frontend&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1"/>
   </a>
 </div>
 
