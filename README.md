@@ -123,4 +123,4 @@ const desarrollador = {
 
 **Creado con** ❤️ **por Dmat39**
 
-*Última actualización: Diciembre 2025*
+*Última actualización: July 2026*
